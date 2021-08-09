@@ -1,2 +1,2 @@
-# go_zero_pprof
-go_zero_pprof
+# go-zero-pprof
+go-zero-pprof
