@@ -1,4 +1,4 @@
-module go-zero-pprof
+module github.com/Jokeramc/go-zero-pprof
 
 go 1.16
 
