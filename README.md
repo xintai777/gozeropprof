@@ -2,7 +2,7 @@
 Usage
 
 ```
-"github.com/Jokeramc/gozeropprof"
+import "github.com/Jokeramc/gozeropprof"
 
 func main() {
     ...
