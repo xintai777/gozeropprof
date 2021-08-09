@@ -1,4 +1,4 @@
-module github.com/Jokeramc/go-zero-pprof
+module github.com/Jokeramc/gozeropprof
 
 go 1.16
 

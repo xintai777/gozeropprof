@@ -1,4 +1,4 @@
-package go_zero_pprof
+package gozeropprof
 
 import (
 	"fmt"
